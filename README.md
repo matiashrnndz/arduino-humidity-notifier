@@ -14,6 +14,10 @@ It uses smtp2go SMTP server to send emails.
 - Through the LED, you can see that when it is on, it means that the notifications are disabled.
 - Once a notification was sent by mail (because the sensor reached a level of humidity lower than acceptable by the customer), so that another email is sent notification, the sensor needs to have a higher level of humidity than acceptable (for example after it has been watered).
 
+## Demo
+
+https://youtu.be/l_tNeDb5KUA
+
 ## Materials
 
 - Arduino UNO R3 (x1)
